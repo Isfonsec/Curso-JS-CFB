@@ -1,0 +1,1 @@
+//JS é uma linguagem interpretada, não precisa compilar
